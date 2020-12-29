@@ -21,6 +21,6 @@ Click the associated LinkedIn profile page URL to navigate to the corresponding 
 # [Demo video](https://youtu.be/W47FJAEUiwg)
 
 # Contact
-Email the developer [here](happy.ch.dev@gmail.com)
+Email the developer [here](mailto:happy.ch.dev@gmail.com)
 
 Unless required by applicable law or agreed to in writing, this extension is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
