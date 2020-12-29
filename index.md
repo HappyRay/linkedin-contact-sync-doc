@@ -23,7 +23,7 @@ Click the associated LinkedIn profile page URL to navigate to the corresponding 
 # [Contact](#contact)
 Email the developer [here](mailto:happy.ch.dev@gmail.com)
 
-# Terms of Use
+# [Terms of Use](#terms)
 Last updated December 2, 2020
 
 Unless required by applicable law or agreed to in writing, this extension is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
