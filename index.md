@@ -1,6 +1,6 @@
 A Chrome browser extension to make it easier to link LinkedIn contacts with Gmail contacts. For example, you can add/view additional details about your LinkedIn contacts more easily.
 
-# Installation
+# [Installation](#installation)
 
 Install it from the Chrome extension store [here](https://chrome.google.com/webstore/detail/linkedin-contact-sync/ikkmmehpiffooknajlgknlcojfoienjk).
 
@@ -18,9 +18,23 @@ If the extension finds a Gmail contact with a website associated with the same L
 ## Start from a Gmail contact page
 Click the associated LinkedIn profile page URL to navigate to the corresponding LinkedIn page.
 
-# [Demo video](https://youtu.be/W47FJAEUiwg)
+# [Demo Video](https://youtu.be/W47FJAEUiwg)
 
-# Contact
+# [Contact](#contact)
 Email the developer [here](mailto:happy.ch.dev@gmail.com)
 
+# [Terms of Use](#terms)
+Last updated December 2, 2020
 Unless required by applicable law or agreed to in writing, this extension is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+
+# [Privacy Policy](#privacy)
+Last updated December 2, 2020
+
+## Definitions
+"We" refers to the owners/developers of this extension
+
+## What information we collect
+None other than what standard information the Chrome browser collects.
+
+## Update of the policy
+We may update the policy from time to time. The updated policy will be published with the updated version of the extension together.
