@@ -4,7 +4,7 @@ A Chrome browser extension to make it easier to link LinkedIn contacts with Gmai
 
 Install it from the Chrome extension store [here](https://chrome.google.com/webstore/detail/linkedin-contact-sync/ikkmmehpiffooknajlgknlcojfoienjk).
 
-# Usage
+# [Usage](#usage)
 
 ## Start from a Linked profile page
 Open a LinkedIn profile page. The extension will only activate if the current page is a LinkedIn profile page.
