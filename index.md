@@ -18,7 +18,7 @@ If the extension finds a Gmail contact with a website associated with the same L
 ## Start from a Gmail contact page
 Click the associated LinkedIn profile page URL to navigate to the corresponding LinkedIn page.
 
-# [Terms of Use](#terms)
+## Terms of Use
 Last updated December 2, 2020
 
 Unless required by applicable law or agreed to in writing, this extension is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
