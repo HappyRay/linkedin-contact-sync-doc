@@ -1,4 +1,10 @@
-A Chrome browser extension to make it easier to link LinkedIn contacts with Gmail contacts. For example, you can add/view additional details about your LinkedIn contacts more easily.
+Do you wish you could search a LinkedIn contact based on some keywords such as “met at the TED conference”? 
+or keep some personal notes of your LinkedIn contacts?
+
+Now you can with this Chrome browser extension. 
+It links Gmail contacts with LinkedIn contacts and allows you to
+complement Gmail’s capability with LinkedIn's more easily.
+
 
 ## Installation
 
@@ -15,10 +21,10 @@ If this is the first time you use the extension, you will need to grant permissi
 
 If the extension finds Gmail contacts with a website associated with the same LinkedIn profile URL,
   it will open new tabs to allow you to view and modify that Gmail contacts. 
-Otherwise, it will show you possible matches based on the person's name in a pop up window.
+Otherwise, it will show you possible matches based on the person's name in a pop-up window.
 Use the view button to view them in separate tabs.
-Click the associate button next to a candidate to add the Linkedin profile URL to the existing contact's web site field. 
-Or select the "create new contact" link to create a new contact.
+Click the associate button next to a candidate to add the LinkedIn profile URL to the existing contact's web site field. 
+Or select the "create new contact" button to create a new contact.
 
 ### Start from a Gmail contact page
 Click the associated LinkedIn profile page URL to navigate to the corresponding LinkedIn page.
