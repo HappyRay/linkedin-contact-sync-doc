@@ -20,10 +20,10 @@ Click the extension icon to search for the person in your Gmail contacts.
 If this is the first time you use the extension, you will need to grant permission for this extension to access your Gmail contacts.
 
 If the extension finds Gmail contacts with a website associated with the same LinkedIn profile URL,
-  it will open new tabs to allow you to view and modify that Gmail contacts. 
+it will open new tabs to allow you to view and modify Gmail contacts.
 Otherwise, it will show you possible matches based on the person's name in a pop-up window.
 Use the view button to view them in separate tabs.
-Click the associate button next to a candidate to add the LinkedIn profile URL to the existing contact's web site field. 
+Click the associate button next to a candidate to add the LinkedIn profile URL to the existing contact's website field.
 Or select the "create new contact" button to create a new contact.
 
 ### Start from a Gmail contact page
