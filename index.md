@@ -1,10 +1,9 @@
 Do you wish you could search a LinkedIn contact based on some keywords such as “met at the TED conference”? 
 or keep some personal notes of your LinkedIn contacts?
 
-Now you can with this Chrome browser extension. 
+Now you can with this Chrome browser extension.
 It links Gmail contacts with LinkedIn contacts and allows you to
-complement Gmail’s capability with LinkedIn's more easily.
-
+complement LinkedIn's capability with Gmail’s more easily.
 
 ## Installation
 
