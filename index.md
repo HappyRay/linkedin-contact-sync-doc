@@ -30,6 +30,11 @@ Click the associated LinkedIn profile page URL to navigate to the corresponding 
 
 ## [Demo Video](https://youtu.be/W47FJAEUiwg)
 
+## FAQ
+
+### After making changes in Gmail, the change is not reflected
+Wait some time and try again to allow time for the change to be propagated.
+
 ## Contact
 Email the developer [here](mailto:happy.ch.dev@gmail.com)
 
