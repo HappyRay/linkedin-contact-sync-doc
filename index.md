@@ -7,7 +7,7 @@ complement LinkedIn's capability with Gmail’s more easily.
 
 ## Installation
 
-Install it from the Chrome extension store [here](https://chrome.google.com/webstore/detail/linkedin-contact-sync/ikkmmehpiffooknajlgknlcojfoienjk).
+Install it from the Chrome extension store [here](https://chrome.google.com/webstore/detail/contact-sync/fcijihmlacmhkgookppmmiflfjjplodk/).
 
 ## Usage
 
