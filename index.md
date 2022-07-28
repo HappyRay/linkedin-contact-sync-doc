@@ -49,6 +49,13 @@ Last updated December 2, 2020
 ### Definitions
 "We" refers to the owners/developers of this extension
 
+### How does the app uses your data
+It reads the basic target LinkedIn profile information and basic GMail contact information in order to do the
+matching.
+It creates a new GMail contact when instructed.
+It caches basic Gmail contact information in the browser.
+All the information stay at its sources and the user's browser.
+
 ### What information we collect
 None other than what standard information the Chrome browser collects.
 
